@@ -1,1 +1,2 @@
 # odin-recipes
+This project will be an accumulation of everything I have learned so far regarding HTML coding and the use of the computer terminal in order to create a basic website, or a boilerplate, regarding recipes
